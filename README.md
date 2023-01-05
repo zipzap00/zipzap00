@@ -5,7 +5,7 @@
 _________________________________________________________________________________________________________________________________________________<br>
 <br>
 <div id="About">
-  My names is Bulat. I am a Backend Developer from Russia.I'm learning new technologies. 
+  My names is Bulat. I am a Backend Developer from Russia. I'm learning new technologies. 
   I started studying programming in order to become a cool developer in the future. <br>
   👨‍💻 About Me: <br>
   - 🤓 I like to study new technologies.<br>
