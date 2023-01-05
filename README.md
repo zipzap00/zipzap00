@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/GjNiBbczpWmxXePb6l/giphy.gif" width="100"/> <br>
   <img src="https://komarev.com/ghpvc/?username=zipzap00&style=flat-square&color=blue" alt=""/>                                                                           </div>
 
-__________________________________________________________________________________________________________________________________________________<br>
+_________________________________________________________________________________________________________________________________________________<br>
 <br>
 <div id="About">
   My names is Bulat. I am a Backend Developer from Russia.I'm learning new technologies. 
@@ -11,7 +11,7 @@ ________________________________________________________________________________
   - 🤓 I like to study new technologies.<br>
   - 🏠 I love spending time with my family.<br>
   - 🥊  But I also do not forget to play sports.<br>
-___________________________________________________________________________________________________________________________________________________<br>
+__________________________________________________________________________________________________________________________________________________<br>
  <br>
   <div id="logo" align="center">
        <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100"/> <br>
